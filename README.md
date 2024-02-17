@@ -10,6 +10,8 @@ Video completo con detalles https://youtu.be/QJMxNg1g1u0
 
 Utilizo la librería https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-DMA
 
+Programa https://github.com/LEDFACIL/HUB75-ESP32-DOT/blob/main/Punto_HUB75_32x64.ino
+
 Recordar mapear los pines del ESP32 Devkit V1 en el archivo "esp32-default-pins.hpp" que se encuentra normalmente en "C:\Users\...\Documents\Arduino\libraries\ESP32_HUB75_LED_MATRIX_PANEL_DMA_Display\src\platforms\esp32" si es que ya instalaste correctamente la librería.
 
 Si compartís por favor respetar la autoría de este contenido.
