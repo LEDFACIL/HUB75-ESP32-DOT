@@ -1,6 +1,6 @@
 # HUB75-ESP32-DOT
 
-Trabajo con una placa de desarrollo ESP32 Devkit v1 y programo en C++ con el entorno Arduino IDE.
+Trabajo con una placa de desarrollo ESP32 Devkit v1 y programo en C++ con Arduino IDE.
 
 El programa consiste en el movimiento de un punto "atrapado" en un rectángulo, que rebota en los lados de una matriz de 32x64 LEDs RGB y cada vez que toca un lado cambia de color R, G o B.
 
@@ -10,14 +10,14 @@ Video completo con detalles https://youtu.be/QJMxNg1g1u0
 
 Utilizo la librería https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-DMA
 
-Programa https://github.com/LEDFACIL/HUB75-ESP32-DOT/blob/main/Punto_HUB75_32x64.ino
+Programa *.ino https://github.com/LEDFACIL/HUB75-ESP32-DOT/blob/main/Punto_HUB75_32x64.ino
 
-Recordar mapear los pines del ESP32 Devkit V1 en el archivo "esp32-default-pins.hpp" que se encuentra normalmente en "C:\Users\...\Documents\Arduino\libraries\ESP32_HUB75_LED_MATRIX_PANEL_DMA_Display\src\platforms\esp32" si es que ya instalaste correctamente la librería.
+Recordar mapear los pines del ESP32 Devkit V1 en el archivo "esp32-default-pins.hpp" que se encuentra normalmente en "C:\Users\ ...\Documents\Arduino\libraries\ESP32_HUB75_LED_MATRIX_PANEL_DMA_Display\src\platforms\esp32" si es que ya instalaste correctamente la librería.
 
-Si compartís por favor respetar la autoría de este contenido.
+Si compartes por favor respeta la autoría de este contenido.
 Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el menú que se despliega seleccionar "Download ZIP".
 
 Éxito con eso!!!
 
-Damián G. Lasso - Mis sitios web son https://ledfacil.com.ar/ y https://lasso-tech.com/
+Damián G. Lasso -> https://ledfacil.com.ar/ & https://lasso-tech.com/
 
