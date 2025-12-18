@@ -14,11 +14,14 @@ Programa *.ino https://github.com/LEDFACIL/HUB75-ESP32-DOT/blob/main/Punto_HUB75
 
 Recuerda mapear los pines del ESP32 Devkit V1 en el archivo "esp32-default-pins.hpp" que se encuentra normalmente en "C:\Users\ ..\Documents\Arduino\libraries\ESP32_HUB75_LED_MATRIX_PANEL_DMA_Display\src\platforms\esp32" si es que ya instalaste correctamente la librería.
 
-Si compartes, por favor respeta la autoría de este contenido.
+📌Si compartís, por favor respetá la autoría de este contenido, sería un buen gesto dejar un enlace al repo. 😉
 
-Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el menú que se despliega seleccionar "Download ZIP".
+📌Podés encontrarme [acá](https://lasso-tech.com/contacto/).
 
-Éxito con eso!!!
+📌Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el menú que se despliega seleccionar "Download ZIP".
 
-Damián G. Lasso -> https://ledfacil.com.ar/ & https://lasso-tech.com/
+💪 Éxito con eso!!!
 
+---
+
+### 🤓 By **Damián G. Lasso** 🌐 [LASSO-TECH](https://lasso-tech.com/) Electrónica aplicada & soluciones.
